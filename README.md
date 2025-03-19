@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center"> ⚡ About me </h1>
+<p align="center">
+Hey There! I'm a Student @ Faculty of Technical Sciences in Novi Sad, Serbia, interested in full-stack development. </br>
+I'm passionate about information technology and the way it is transforming business. I love working on challenging solutions </br>
+and experimenting with various concepts and extending my expertise. Feel free to check out my projects!
+</p>
+<h1 align="center"> 🛠️ Technologies </h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,react,tailwind,nextjs,git,github,docker,vercel,azure,bootstrap,cs,dotnet,mongodb,mysql&perline=6" />
+  </a>
+</p>
 
-<!--
-**BojanSkopljakk/BojanSkopljakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> 📱 Contact me </h1>
+<p align="center">Email: bojanskopljakgimnazija@gmail.com<p>
+<p align="center">Phone: +38166452458</p>
